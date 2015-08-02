@@ -1,5 +1,5 @@
 var expect = require('chai').expect;
-var sqrt = require('../index.js');
+var sqrt = require('../lib/sqrt');
 
 describe('Square Root', function() {
   it('returns the sqrt of a positive integer', function() {
