@@ -1,4 +1,4 @@
-Square Root
+Square Root [![Build Status](https://travis-ci.org/alexkahn/sqrt.svg)](https://travis-ci.org/alexkahn/sqrt)
 ============
 
 This is an example for teaching some fundamental programming concepts
